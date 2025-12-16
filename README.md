@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<--
-**DeepVadaliya3632/DeepVadaliya3632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 🔭 I’m currently pursuing a Bachelor’s degree in Computer Applications.
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m doing intership at laminds.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Html
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- SQL
+
+### 📫 Connect with me
+
