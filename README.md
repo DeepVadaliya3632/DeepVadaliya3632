@@ -1,4 +1,4 @@
-# Hi there 👋 I'm
+# Hi there 👋 I'm Deep Vadaliya
 
 - 🔭 🔭 I’m currently pursuing a Bachelor’s degree in Computer Applications.
 - 🌱 I’m currently learning Web Development.
