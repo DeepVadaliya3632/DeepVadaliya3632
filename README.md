@@ -21,7 +21,6 @@
 
 ### GitHub Stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=DeepVadaliya3632&layout=compact&theme=default
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepVadaliya3632&layout=compact&theme=tokyonight)
 
 
